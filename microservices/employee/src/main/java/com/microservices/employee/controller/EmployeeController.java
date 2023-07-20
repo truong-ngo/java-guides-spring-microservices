@@ -1,6 +1,5 @@
 package com.microservices.employee.controller;
 
-import com.microservices.employee.dto.EmployeeDto;
 import com.microservices.employee.dto.EmployeeModel;
 import com.microservices.employee.service.core.EmployeeModelService;
 import lombok.RequiredArgsConstructor;
