@@ -1,2 +1,5 @@
-package com.javaguides.base.enumarate;public enum Status {
+package com.javaguides.base.enumarate;
+
+public enum Status {
+    SUCCESS, FAILED
 }

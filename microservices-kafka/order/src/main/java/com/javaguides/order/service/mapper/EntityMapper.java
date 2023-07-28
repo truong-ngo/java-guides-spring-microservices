@@ -1,4 +1,4 @@
-package com.microservices.employee.service.mapper;
+package com.javaguides.order.service.mapper;
 
 public interface EntityMapper<E, D> {
     E toEntity(D dto);

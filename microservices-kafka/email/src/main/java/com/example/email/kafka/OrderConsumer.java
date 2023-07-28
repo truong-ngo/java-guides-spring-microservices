@@ -1,4 +1,4 @@
-package com.example.stock.kafka;
+package com.example.email.kafka;
 
 import com.javaguides.base.message.OrderEvent;
 import lombok.extern.slf4j.Slf4j;

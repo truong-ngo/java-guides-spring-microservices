@@ -1,4 +1,4 @@
-package com.microservices.employee.service.core;
+package com.javaguides.order.service.core;
 
 public interface CrudService<E, ID> {
     E findById(ID id);

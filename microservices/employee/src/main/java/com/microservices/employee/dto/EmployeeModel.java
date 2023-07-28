@@ -10,4 +10,5 @@ import lombok.NoArgsConstructor;
 public class EmployeeModel {
     private EmployeeDto employee;
     private DepartmentDto department;
+    private OrganizationDto organization;
 }
